@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppConsultaCEP.Android", "AppConsultaCEP\AppConsultaCEP.Android\AppConsultaCEP.Android.csproj", "{A94DAAAD-4257-4E83-BB1F-8A08B9FE78DB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppConsultaCEP", "AppConsultaCEP\AppConsultaCEP\AppConsultaCEP.csproj", "{732011B2-A2E9-4506-B239-206CB83F86D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppConsultaCEP", "AppConsultaCEP\AppConsultaCEP\AppConsultaCEP.csproj", "{732011B2-A2E9-4506-B239-206CB83F86D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
